@@ -26,3 +26,8 @@ dist-ssr
 # Environment files
 .env
 backend/.env
+
+
+# Environment files
+.env
+backend/.env
